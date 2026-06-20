@@ -34,8 +34,8 @@ This project is built using **HTML, CSS, and JavaScript**. The game allows the u
 ├── style.css
 ├── script.js
 
-
-
+## Live Demo
+https://nazeraiffath.github.io/SkillCraft-T3-Tic-Tac-Toe/
 
 ## How To Run 🚀
 
